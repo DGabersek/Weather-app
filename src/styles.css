@@ -10,7 +10,7 @@
   font-family: "Manjari", sans-serif;
   margin: 30px auto;
   max-width: 650px;
-  padding: 30px;
+  padding: 30px 30px 10px 30px;
 }
 
 .enter-city {
@@ -207,4 +207,17 @@
   margin: 5px auto;
   max-width: 650px;
   padding: 10px;
+}
+
+.open-source-link {
+  color: #c7d5ce;
+  transition: all 150ms ease-in-out;
+}
+
+.open-source-link:hover {
+  color: #21593c;
+}
+
+.coder {
+  color: #c7d5ce;
 }
